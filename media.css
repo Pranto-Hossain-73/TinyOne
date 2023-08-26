@@ -1,0 +1,90 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* header statr */
+    header {
+      padding: 0px;
+    }
+    .menu ul li a{
+  font-size: 18px;
+  padding: 5px 0px 0px !important;
+  text-align: right;
+}
+/* slider start */
+.slider {
+  background-color: #fcdb00;
+  padding-bottom: 50px;
+}
+.s-text h1 {
+  font-size: 25px;
+}
+.s-icon i {
+  font-size: 30px;
+}
+.carousel-indicators {
+  bottom: -50px;
+}
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;  
+  background-color: #fff;
+}
+}
+/* slider end */
+
+/* header end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+ /* header statr */
+ .menu ul li a{
+  font-size: 20px;
+  padding: 5px 0px 0px !important;
+  text-align: right;
+}
+/* header end */
+/* slider start */
+.s-text h1 {
+  font-size: 25px;
+}
+.s-icon i {
+  font-size: 35px;
+}
+.carousel-indicators {
+  bottom: -65px;
+}
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;  
+  background-color: #fff;
+}
+}
+/* slider end */
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+ /* header statr */
+ .menu ul li a{
+      padding: 5px 0px 0px !important;
+      text-align: right;
+  }
+/* header end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+  
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width:1399.98px){
+
+
+}
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+ 
+
+}
