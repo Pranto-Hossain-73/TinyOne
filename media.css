@@ -79,7 +79,8 @@ footer{
     margin: 30px;
 }
 .e-form {
-  width: 100%;
+  margin-top: -30px;
+  margin-bottom: -20px;
 }
 }
 /* feature end */
@@ -150,7 +151,8 @@ footer{
   padding-bottom: 50px;
 }
 .e-form {
-  width: 70%;
+  margin-top: -20px;
+  margin-bottom: -10px;
 }
 .form button {
   background-color: #fcdb00;
@@ -185,7 +187,7 @@ footer{
 /* feature end */
 /* footer start */
 .e-form {
-  width: 80%;
+
 }
 .footer{
   background-color: #1a1b1c;
