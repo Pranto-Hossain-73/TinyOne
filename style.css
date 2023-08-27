@@ -69,7 +69,6 @@ header{
 /* slider end */
 /* feature start */
 /* 1st row start */
-
 .feature{
     padding-top: 100px ;
     padding-bottom: 120px ;
@@ -120,7 +119,7 @@ footer{
 color: #fcdb00;
 }
 .f_p{
-    color: #555555;
+    color:  white;
 }
 .e-form{
     width: 40%;
@@ -147,5 +146,4 @@ color: #fcdb00;
     line-height: 5px;
 }
 /* contact end */
-
 /* footer end */
