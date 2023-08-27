@@ -117,3 +117,42 @@ header{
 }
 /* 2nd row end */
 /* feature end */
+/* footer start */
+footer{
+    background-color: #1a1b1c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.f_h1{
+color: #fcdb00;
+}
+.f_p{
+    color: #555555;
+}
+.e-form{
+    width: 50%;
+}
+.form button{
+    background-color: #fcdb00;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+.form button:hover{
+    background-color: #fcdb00;
+}
+.icon{
+    font-size: 40px;
+    margin: 70px;
+}
+.icon i{
+    color: #fcdb00;
+    padding-right: 20px !important;
+}
+/* contact start */
+.contact{
+    color: white;
+    line-height: 5px;
+}
+/* contact end */
+
+/* footer end */
