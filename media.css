@@ -1,10 +1,10 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-    /* header statr */
-    header {
-      padding: 0px;
-    }
-    .menu ul li a{
+/* header statr */
+header {
+  padding: 0px;
+}
+.menu ul li a{
   font-size: 18px;
   padding: 5px 0px 0px !important;
   text-align: right;
@@ -33,7 +33,6 @@
   border-radius: 50%;  
   background-color: #fff;
 }
-
 /* slider end */
 /* feature start */
 .feature{
@@ -88,8 +87,8 @@ footer{
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
- /* header statr */
- .menu ul li a{
+/* header statr */
+.menu ul li a{
   font-size: 20px;
   padding: 5px 0px 0px !important;
   text-align: right;
@@ -143,7 +142,6 @@ footer{
   font-weight: 700;
   margin-bottom: 0px; 
 }
-
 /* feature end */
 /* footer start */
 footer{
@@ -169,10 +167,10 @@ footer{
  /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
  /* header statr */
- .menu ul li a{
-      padding: 5px 0px 0px !important;
-      text-align: right;
-  }
+.menu ul li a{
+  padding: 5px 0px 0px !important;
+  text-align: right;
+}
 /* header end */
 /* feature statr */
 .feature{
@@ -186,16 +184,12 @@ footer{
 /* 2nd row end */
 /* feature end */
 /* footer start */
-.e-form {
-
-}
 .footer{
   background-color: #1a1b1c;
   padding-top: 50px;
   padding-bottom: 50px;
 }
 /* footer end */
-
 }
 
 /* Large devices (desktops, 992px and up) */

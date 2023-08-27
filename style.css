@@ -11,15 +11,9 @@ header{
     background-color:#fcdb00;
     padding: 10px 0;
 }
-.c_nav{
-
-}
-.logo{
-
-}
-.menu{
-
-}
+.c_nav{}
+.logo{}
+.menu{}
 .menu ul li a{
     font-size: 22px;
     font-weight: 700 !important;
@@ -103,7 +97,6 @@ header{
 }
 .f_icon i:hover{
     transform :scale(0.8);
-
 }
 .f_text{}
 .f_text h2{
