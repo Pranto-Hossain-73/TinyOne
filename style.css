@@ -65,11 +65,10 @@ header{
 .s-icon i{
     color: #010101;
     font-size: 45px;
-    transition: .4s;
+    transition: .3s;
 }
 .s-icon i:hover{
-    transform :scale(0.7);
-    color: white;
+    transform :scale(.8);
 }
 .s-img{}
 .s-img img{}
@@ -93,16 +92,28 @@ header{
 }
 /* 1st row end */
 /* 2nd row start */
+.f_item{
+    margin-top: 70px;
+}
 .f_icon{}
 .f_icon i{
     font-size: 50px;
+    margin-top: 3px;
+    transition: .3s;
+}
+.f_icon i:hover{
+    transform :scale(0.8);
+
 }
 .f_text{}
-.f_text h1{
+.f_text h2{
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 700;
     color: #010101;
+    margin-bottom: 10px; 
 }
-.f_text p{}
+.f_text p{
+    color: #898989;
+}
 /* 2nd row end */
 /* feature end */

@@ -33,7 +33,7 @@
   border-radius: 50%;  
   background-color: #fff;
 }
-}
+
 /* slider end */
 /* feature start */
 .feature{
@@ -47,6 +47,22 @@
 .c_p{
   font-size: 18px;
   line-height: 25px;
+}
+.f_item {
+  margin-top: 30px;
+}
+.f_icon i{
+  font-size: 35px;
+  margin-top: 0;
+}
+.f_text{
+  text-align: center;
+}
+.f_text h2{
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0px; 
+}
 }
 /* feature end */
 
@@ -92,6 +108,22 @@
   font-size: 18px;
   line-height: 25px;
 }
+.f_item {
+  margin-top: 30px;
+}
+.f_icon i{
+  font-size: 35px;
+  margin-top: 0;
+}
+.f_text{
+  text-align: center;
+}
+.f_text h2{
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0px; 
+}
+
 /* feature end */
 }
 
@@ -108,8 +140,14 @@
   padding-top: 80px ;
   padding-bottom: 100px ;
 }
-
+/* 2nd row start */
+.f_item {
+  margin-top: 50px;
+}
+/* 2nd row end */
 /* feature end */
+
+
 }
 
 /* Large devices (desktops, 992px and up) */
