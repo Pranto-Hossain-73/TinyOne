@@ -60,6 +60,7 @@ header{
     color: #010101;
     font-size: 45px;
     transition: .3s;
+    margin-right: 20px;
 }
 .s-icon i:hover{
     transform :scale(.8);
